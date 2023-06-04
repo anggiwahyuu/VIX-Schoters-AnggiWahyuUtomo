@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">News Apps</string>
+    <string name="news_headline">News Headline</string>
+    <string name="news_author">News Author</string>
+    <string name="news_description">News Description</string>
+    <string name="image_description">Description Image</string>
+    <string name="published_at">Published At</string>
+    <string name="news_content">Content</string>
+    <string name="url_news">Url</string>
+    <string name="slice">|</string>
+    <string name="source">Source</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_name">Anggi Wahyu Utomo</string>
+    <string name="user_github">Github : anggiwahyuu</string>
+    <string name="add_bookmark">Telah Ditambahkan ke Bookmarks</string>
+    <string name="del_bookmark">Telah Dihapus dari Bookmarks</string>
+    <string name="exist">Artikel Sudah Ada</string>
+</resources>

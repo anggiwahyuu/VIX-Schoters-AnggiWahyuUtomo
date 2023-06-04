@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".ui.view.MyProfileActivity">
+
+    <ImageView
+        android:id="@+id/profile_picture"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        tools:src="@drawable/my_profile"
+        android:importantForAccessibility="no" />
+
+    <TextView
+        android:id="@+id/my_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/my_name"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:id="@+id/my_github"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/user_github"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+</LinearLayout>
